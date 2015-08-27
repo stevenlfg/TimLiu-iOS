@@ -76,6 +76,10 @@
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) -  Twitter iOS客户端的下拉封面模糊效果。
 * [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) - Replace-iOS 让人眼前一亮的下拉刷新（iOS）。
 * [Animations](https://github.com/KittenYang/Animations) - 封装了一下，使用的时候只要两行代码。一些动画的飞机稿，都是一些单独分离出来的用于测试的子动画，现在统一归类一下。
+* [DJRefresh](https://github.com/ydj/DJRefresh)-可高度自定义刷新显示的效果
+* [WHC_Refresh](https://github.com/netyouli/WHC_PullAndUpRefreshDemo) -类似QQ的刷新效果,增加了刷新进度
+* [LGRefreshView](https://github.com/Friend-LGA/LGRefreshView)-双向转动效果
+* [IBTRefresh](https://github.com/Xummer/IBTRefreshTableView)-实现菊花刷新的效果
 
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) -be 支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
