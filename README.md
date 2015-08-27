@@ -171,6 +171,9 @@ Deprecated in favor of PureLayout, which includes OS X support:https://github.co
  * [uicollectionview-reordering](https://github.com/nshintio/uicollectionview-reordering) - UICollectionViews的拖拽(拖动、移动)效果,[实例教程](http://nshint.io/blog/2015/07/16/uicollectionviews-now-have-easy-reordering/).
  * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) - DZNEmptyDataSet算是一个很标准的iOS内建方式，适合用来处理空的table view和collection view。会自动将collection view处理完善，并将用户消息以合适美观的方式显示出来。每个iOS项目都可以自动处理。
  * [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) - 另一个常见于很多应用中的UI组件，苹果应该考虑在标准的iOS SDK中加入一些类似的内容。Swipeable表格cell是这个pod的最佳描述，也是最好的。
+ * [WMPageController](https://github.com/wangmchn/WMPageController)-可自定义各种样式
+ 
+ * [WHC_-ContainerView](https://github.com/netyouli/WHC_-ContainerView)-高仿qq未读消息拖拽和网易新闻viewpager特效集成
 
 ##### 隐藏与显示
  * [SlideTapBar](http://d.cocoachina.com/code/detail/286102) - 滚动栏菜单，向上滚动时隐藏tabbar，向下滚动马上显示tabbar。
