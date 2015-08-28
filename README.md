@@ -80,6 +80,7 @@
 * [WHC_Refresh](https://github.com/netyouli/WHC_PullAndUpRefreshDemo) -类似QQ的刷新效果,增加了刷新进度
 * [LGRefreshView](https://github.com/Friend-LGA/LGRefreshView)-双向转动效果
 * [IBTRefresh](https://github.com/Xummer/IBTRefreshTableView)-实现菊花刷新的效果
+* [PullToBounce](https://github.com/entotsu/PullToBounce)-swift 实现小球上弹效果
 
 ##### 模糊效果
  * [FXBlurView](https://github.com/nicklockwood/FXBlurView) -be 支持iOS5.0以上版本，支持静态、动态模糊效果，继承与UIView的模糊特效。
